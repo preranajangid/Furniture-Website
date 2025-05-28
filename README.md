@@ -14,8 +14,7 @@ Welcome to the **Furniture Website** — a stylish and responsive web project sh
 
 ## 🚀 Live Demo
 
-Visit the live site 👉 [[https://your-username.github.io/your-repo-name](https://github.com/preranajangid/Furniture-Website)]([https://your-username.github.io/your-repo-name](https://github.com/preranajangid/Furniture-Website))
-
+Visit the live site 👉 [[https://github.com/preranajangid/Furniture-Website](https://github.com/preranajangid/Furniture-Website)]
 *(Replace with your GitHub Pages link after deployment)*
 
 ## 💻 Technologies Used
